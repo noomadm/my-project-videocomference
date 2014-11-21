@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DemoPeerPeer</string>    
+    <string name="action_settings">Settings</string>
+
+    <!-- Layout main -->
+    <string name="edit_address_hint">peer@pcpeer.com:port</string>
+    <string name="button_send_ping">Send PING</string>
+    <string name="button_clear">Clear</string>
+    <string name="button_exit">Exit</string>
+</resources>
